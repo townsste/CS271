@@ -1,2 +1,2 @@
 # CS271
-Computer Architecture & Assembly Language in Assembly x86
+COMPUTER ARCHITECTURE & ASSEMBLY LANGUAGE in Assembly x86
